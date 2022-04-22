@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://indiachat.netlify.app/sitemap.xml
